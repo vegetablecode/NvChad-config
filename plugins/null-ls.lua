@@ -8,7 +8,7 @@ local b = null_ls.builtins
 
 local sources = {
   -- webdev stuff
-  b.formatting.prettier.with { filetypes = { "html", "markdown", "css", "javascript", "typescript", "javascriptreact", "typescriptreact" } },
+  b.formatting.prettier.with { extra_args = { "--single-quote", "--jsx-single-quote" }, filetypes = { "html", "markdown", "css", "javascript", "typescript", "javascriptreact", "typescriptreact" } },
 
   -- Shell
   b.formatting.shfmt,
