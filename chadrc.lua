@@ -14,4 +14,7 @@ opt.relativenumber = true
 -- plugins
 M.plugins = require "custom.plugins"
 
+-- mappings
+M.mappings = require "custom.mappings"
+
 return M
