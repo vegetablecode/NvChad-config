@@ -33,3 +33,7 @@ Make sure to install those packages.
 **formatter**
 
 - prietter_d
+
+## Packer
+
+Make sure to hit 'PackerCompile' and `PackerInstall` after you install the config. 
