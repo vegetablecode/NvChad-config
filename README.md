@@ -32,7 +32,7 @@ Make sure to install those packages.
 
 **formatter**
 
-- prietter_d
+- prietter
 
 ## Packer
 
