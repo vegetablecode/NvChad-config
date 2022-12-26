@@ -36,4 +36,4 @@ Make sure to install those packages.
 
 ## Packer
 
-Make sure to hit 'PackerCompile' and `PackerInstall` after you install the config. 
+Make sure to hit 'PackerCompile' and `PackerInstall` after you install the config.
