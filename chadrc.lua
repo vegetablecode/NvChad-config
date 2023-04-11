@@ -3,7 +3,7 @@ local M = {}
 
 -- ui options
 M.ui = {
-  theme_toggle = { "ayu-dark", "one_light" },
+  theme_toggle = { "ayu-dark", "nightlamp" },
   theme = "ayu-dark",
 }
 
