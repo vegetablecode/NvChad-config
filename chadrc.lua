@@ -3,8 +3,8 @@ local M = {}
 
 -- ui options
 M.ui = {
-  theme_toggle = { "ayu-dark", "nightlamp" },
-  theme = "ayu-dark",
+  theme = "ayu_dark",
+  theme_toggle = { "ayu_dark", "nightlamp" },
 }
 
 -- editor options
@@ -12,7 +12,7 @@ opt.number = true
 opt.relativenumber = true
 
 -- plugins
-M.plugins = require "custom.plugins"
+M.plugins = "custom.plugins"
 
 -- mappings
 M.mappings = require "custom.mappings"
